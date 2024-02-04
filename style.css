@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://wallpapertag.com/wallpaper/full/5/0/9/350850-website-background-1920x1234-for-android-50.jpg);
+}
+
+details{
+    padding-bottom: 50px;
+}
+
+img{
+    width: 210px;
+    height: 280px;
+}
+
+article{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#formulario_subida{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#resenia_texto_principal textarea{
+    width: 100%;
+    resize: both;
+    box-sizing: border-box;
+}
